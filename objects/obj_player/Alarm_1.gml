@@ -1,4 +1,4 @@
-/// @description Disable Powerup 1
+/// @description GMA2011
 
 powerup = 0;
 lose_color = c_white;

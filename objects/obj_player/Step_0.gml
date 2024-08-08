@@ -1,4 +1,4 @@
-/// @description Motion & Controls
+/// @description GMS2010
 
 if keyboard_check(vk_up)
 {

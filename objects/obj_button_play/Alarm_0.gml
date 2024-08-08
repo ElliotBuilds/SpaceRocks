@@ -1,4 +1,4 @@
-/// @description Delay
+/// @description GMA2010
 // You can write your code in this editor
 
 // Inherit the parent event

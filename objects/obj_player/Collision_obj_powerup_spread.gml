@@ -1,4 +1,4 @@
-/// @description Spread Powerup
+/// @description GMCC2011
 
 powerup = 1;
 lose_color = c_yellow;

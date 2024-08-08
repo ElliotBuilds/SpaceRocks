@@ -1,3 +1,3 @@
-/// @description Menu on ESC
+/// @description GMA2010
 
 room_goto(rm_menu)

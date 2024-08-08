@@ -1,4 +1,4 @@
-/// @description Button Clicked
+/// @description GMLP2010
 
 event_inherited();
 

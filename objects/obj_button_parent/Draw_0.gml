@@ -1,4 +1,4 @@
-/// @description Display Button Text
+/// @description GMD2010
 
 draw_self();
 

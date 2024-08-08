@@ -1,4 +1,4 @@
-/// @description Powerup Countdown
+/// @description GMD2010
 
 draw_self();
 draw_set_font(fnt_default);

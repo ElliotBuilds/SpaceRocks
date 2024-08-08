@@ -1,4 +1,4 @@
-/// @description Smaller Peices & Points
+/// @description GMCC2010
 
 if (obj_game.powerup_time < 0)
 {

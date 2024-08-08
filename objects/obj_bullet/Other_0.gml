@@ -1,3 +1,3 @@
-/// @description Destory When Exited
+/// @description GMOR2010
 
 instance_destroy();

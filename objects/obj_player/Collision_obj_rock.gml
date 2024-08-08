@@ -1,4 +1,4 @@
-/// @description Destruction & Collisions
+/// @description GMCC2012
 
 if (powerup == 2) exit;
 

@@ -1,3 +1,3 @@
-/// @description Background Music Stopper
+/// @description GMGE2010
 
 audio_stop_sound(snd_music);

@@ -1,4 +1,4 @@
-/// @description Room Wrap
+/// @description GMS2010
 
 move_wrap(true, true, 100);
 

@@ -1,4 +1,4 @@
-/// @description Draw Point Variable
+/// @description GMD2010
 
 draw_text(10, 10, points);
 

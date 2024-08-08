@@ -1,3 +1,3 @@
-/// @description Restart with Collision
+/// @description GMA2010
 
 room_restart();
